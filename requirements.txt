@@ -1,0 +1,9 @@
+Sastrawi
+matplotlib
+nltk
+numpy
+pandas
+requests
+seaborn
+scikit-learn
+tensorflow
